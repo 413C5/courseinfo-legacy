@@ -5,6 +5,7 @@ import Total from "./Total";
 
 const Course = ({ course }) => (
     <div>
+      <h1>Web development curriculum</h1>
       <Header name={course.name} />
       <Content parts={course.parts} />
       <Total parts={course.parts}/>
