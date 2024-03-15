@@ -1,3 +1,19 @@
+# Courseinfo App
+
+Courseinfo is an app which shows the use of the refactoring of components and use of functions to display information.
+
+# Try out this app:
+
+You can experience the app by clicking [this link](https://courseinfo-0atq.onrender.com).
+
+# Project Details:
+
+This project is part of the [fsopen2023](https://github.com/413C5/fsopen2023/tree/main/part2/courseinfo) repository, specifically located in the courseinfo directory. The creation of the standalone "courseinfo" repository is specifically for hosting on render.com.
+
+Feel free to explore the [fsopen2023](https://github.com/413C5/fsopen2023) repository to understand its broader context and discover related projects.
+
+**Note:** This repository is considered legacy. For the latest updates and developments, please visit the [newest repository](https://github.com/413C5/courseinfo).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +84,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### What does this do?
+This project is a continuation of courseinfo found in the previous part. Javascript functions such as map and reduce are used to display x number of parts/exercises and the sum of x number of exercises in each course.
